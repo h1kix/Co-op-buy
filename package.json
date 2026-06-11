@@ -4,6 +4,7 @@
   "description": "Сервис совместного планирования покупок",
   "main": "server.js",
   "scripts": {
+    "run": "node server.js",
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
